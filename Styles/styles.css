@@ -4,12 +4,12 @@ body {
     margin-left: auto;
     margin-right: auto;
     background-color: #bcddc7;
-    background-image: url('Images/background.jpg');
+    background-image: url('../Images/background.jpg');
 }
 
 #mainheader {
-    background-image: -moz-repeating-linear-gradient();
     background-color: #7b99c0;
+    background-image: url('../Images/background.jpg');
 }
 
 nav {
