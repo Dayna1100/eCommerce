@@ -1,0 +1,12 @@
+{
+    "name": "creatinghtmlformshost",
+    "description": "eCommerce Site",
+    "author": "Dayna Tynan",
+    "devDependencies": {
+      "browser-sync": "~2.26.7"
+    },
+    "scripts": {
+      "dev": "browser-sync start --server --files *.html,*.css"
+    }
+  }
+  
