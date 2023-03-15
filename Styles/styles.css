@@ -9,11 +9,11 @@ body {
 }
 
 #mainheader {
-    background-color: #7b99c0;
+    background-color: #808892;
     background-image: url('../Images/background.jpg');
 }
 
-nav {
+/* nav {
     height: 60px;
     width: 1000px;
     margin: 0 auto 20px;
@@ -37,7 +37,7 @@ nav>ul>li a {
     padding: 16px;
     text-decoration: none;
     font-weight: bold;
-}
+} */
 
 #leftmenu {
     float: left;
