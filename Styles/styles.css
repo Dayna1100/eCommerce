@@ -7,9 +7,9 @@ body {
     color: white (28, 10, 10);
   }
 
-p>h2 {
+  .p {
     color: white (28, 10, 10); 
-}
+  }
 
   .jumbotron-detail-kitty-cat{
     background: url('/Images/CatMain.jpeg') no-repeat fixed;
