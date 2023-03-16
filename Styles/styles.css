@@ -1,4 +1,63 @@
 body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url('../Images/background.jpg');
+    background-repeat: repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white (28, 10, 10);
+  }
+
+p>h2 {
+    color: white (28, 10, 10); 
+}
+
+  .jumbotron-detail-kitty-cat{
+    background: url('/Images/CatMain.jpeg') no-repeat fixed;
+  }
+  
+  .jumbotron-other{
+    background: url('/Images/KittyIcon.jpeg') no-repeat fixed;
+ }
+ 
+   .jumbotron{
+      box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.1);
+      height: 50vh;
+      background-size: cover;
+   }
+  
+   .carousel {
+    margin-bottom: 4rem;
+  }
+  
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+
+  .carousel-item {
+    height: 32rem;
+    max-width: 100vw;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+
+  .welcome-carousel-image1{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('/Images/CatMain.jpeg');
+  }
+
+  .welcome-carousel-image2{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('/Images/beachcat.jpg');
+  }
+
+  .welcome-carousel-image3{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('/Images/catwithportraits.jpg');
+  }
+
+/*body {
     margin-top: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: auto;
@@ -13,7 +72,7 @@ body {
     background-image: url('../Images/background.jpg');
 }
 
-/* nav {
+ nav {
     height: 60px;
     width: 1000px;
     margin: 0 auto 20px;
@@ -39,7 +98,7 @@ nav>ul>li a {
     font-weight: bold;
 } */
 
-#leftmenu {
+/*#leftmenu {
     float: left;
     width: 30%;
     margin-bottom: 20px;
@@ -71,4 +130,4 @@ footer {
     width:90px;
     padding-right:10px;
 }
-
+*/
