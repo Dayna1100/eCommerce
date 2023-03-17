@@ -153,7 +153,7 @@ sup {
 }
 
 a {
-  color: #252523;
+  color: #943838;
   text-decoration: none;
   background-color: transparent;
 }
@@ -1662,7 +1662,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529;
+  color: rgb(43, 11, 160);
 }
 
 .table th,
